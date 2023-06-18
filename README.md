@@ -15,7 +15,6 @@
 
 <a href="https://vuejs.org"><img src="https://api.iconify.design/mdi:vuejs.svg?color=%23ffffff" alt="Vue Icon" width="30" height="30"/></a>
 <a href="https://reactjs.org"><img src="https://api.iconify.design/mdi:react.svg?color=%23ffffff" alt="React Icon" width="30" height="30"/></a>
-<a href="https://lit.dev"><img src="https://api.iconify.design/simple-icons:lit.svg?color=%23ffffff" alt="Lit Icon" width="30" height="30"/></a>
 
 ### Frameworks
 
@@ -40,7 +39,6 @@
 
 <a href="https://www.cockroachlabs.com"><img src="https://api.iconify.design/simple-icons:cockroachlabs.svg?color=%23ffffff" alt="CockroachDB Icon" width="30" height="30"/></a>
 <a href="https://www.mongodb.com"><img src="https://api.iconify.design/teenyicons:mongodb-outline.svg?color=%23ffffff" alt="MongoDB Icon" width="30" height="30"/></a>
-<a href="https://mariadb.org"><img src="https://api.iconify.design/simple-icons:mariadb.svg?color=%23ffffff" alt="MariaDB Icon" width="30" height="30"/></a>
 <a href="https://www.redis.io"><img src="https://api.iconify.design/simple-icons:redis.svg?color=%23ffffff" alt="Redis Icon" width="30" height="30"/></a>
 
 ### Tools
