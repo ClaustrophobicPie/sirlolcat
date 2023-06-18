@@ -3,12 +3,12 @@
 ### Languages
 
 <a href="https://www.typescriptlang.org"><img src="https://api.iconify.design/mdi:language-typescript.svg?color=%23ffffff" alt="Typescript Icon" width="30" height="30"/></a>
-<a href="https://graphql.org"><img src="https://api.iconify.design/simple-icons:graphql.svg?color=%23ffffff" alt="Graphql Icon" width="30" height="30"/></a>
 <a href="https://www.python.org"><img src="https://api.iconify.design/mdi:language-python.svg?color=%23ffffff" alt="Python Icon" width="30" height="30"/></a>
 <a href="https://cplusplus.com"><img src="https://api.iconify.design/simple-icons:cplusplus.svg?color=%23ffffff" alt="C++ Icon" width="30" height="30"/></a>
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://api.iconify.design/devicon-plain:csharp.svg?color=%23ffffff" alt="C# Icon" width="30" height="30"/></a>
 <a href="https://git.savannah.gnu.org/cgit/bash.git"><img src="https://api.iconify.design/mdi:bash.svg?color=%23ffffff" alt="Bash Icon" width="30" height="30"/></a>
 <a href="http://brainfuck.org/brainfuck.html"><img src="https://api.iconify.design/material-symbols:skull-outline.svg?color=%23ffffff" alt="Brainfuck Icon" width="30" height="30"/></a>
+<a href="https://graphql.org"><img src="https://api.iconify.design/simple-icons:graphql.svg?color=%23ffffff" alt="Graphql Icon" width="30" height="30"/></a>
 <a href="https://en.wikipedia.org/wiki/English_language"><img src="https://api.iconify.design/icon-park-outline:english.svg?color=%23ffffff" alt="English Icon" width="30" height="30"/></a>
 
 ### Libraries
